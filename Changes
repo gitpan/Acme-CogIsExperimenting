@@ -1,0 +1,6 @@
+Revision history for Acme-CogIsExperimenting
+
+0.01  Wed Oct 26 14:33:00 2005
+	experiment: what happens with CPAN and CPANPLUS when two modules use
+		each other?
+
